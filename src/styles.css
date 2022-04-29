@@ -7,7 +7,7 @@
     body 
     {
     background: url('https://www.sagatraining.ca/wp-content/uploads/2018/10/background-images-for-login-form-8.jpg') no-repeat;
-    background-size: cover;
+    /*background-image: cover;*/
     }
     
     .User-Login {
@@ -53,8 +53,8 @@
     border-radius: 300px;
     font-weight: bold;
     margin: 20px 20px;
-    background: #fb2530;
-    height: 100px;
+    /*background: #fb2530;
+    height: 100px;*/
     color: grey;
     }
     .User-Login button:hover
