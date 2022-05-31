@@ -1,0 +1,71 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+     }
+    
+    body 
+    {
+      background: url('https://40obml2t8u691fd442y9pg71-wpengine.netdna-ssl.com/wp-content/uploads/login-page-bg.jpg') no-repeat;
+    background-size: cover;
+    }
+    
+    .User-Login {
+    position: absolute;
+      top: 40%;
+     left: 50%;
+      width: 100%;
+    transform: translate(-50%, -50%);
+      text-align: center;
+    color: #fff;
+    }
+    .User-Login h1
+    {
+    font-size: 40px;
+    text-align: center;
+    color: grey;
+    margin: 40px 20px;
+    }
+    
+    .User-Login p
+    {
+    font-size: 20px;
+    margin: 15px 20px;
+    left:60%;
+    width: 85%;
+    }
+    
+    .User-Login input
+    {
+    border: none;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    outline: none;
+    font-size:20px;
+    width: 20%;
+    padding: 15px 10px;
+    border-radius: 5px;
+    }
+    
+    .User-Login button
+    {
+    font-size: 20px;
+    border-radius: 300px;
+    font-weight: bold;
+    margin: 20px 20px;
+    /*background: #fb2530;
+    height: 100px;*/
+    color: grey;
+    }
+    .User-Login button:hover
+    {
+    cursor: pointer;
+    background: #ffc107;
+    color: #000;
+    }
+    .User-Login a
+    {
+    font-size:15px;
+    color: Red;
+    line-height:20px;
+    }
